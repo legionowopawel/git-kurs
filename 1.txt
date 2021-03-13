@@ -1,0 +1,1 @@
+dodalem pierwsz linijke w pliku 1.txt
