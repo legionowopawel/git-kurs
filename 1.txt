@@ -1,6 +1,6 @@
 dodalem pierwsz linijke w pliku 1.txt
 
-Kto?
+Kto? Paweł
 Co zrobił
 gdzie?
 z kim?
