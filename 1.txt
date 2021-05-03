@@ -1,1 +1,11 @@
 dodalem pierwsz linijke w pliku 1.txt
+
+Kto?
+Co zrobił
+gdzie?
+z kim?
+dlaczego?
+
+1
+2
+3
