@@ -3,7 +3,7 @@ dodalem pierwsz linijke w pliku 1.txt
 Kto? Paweł
 Co zrobił Otworzył Pyharm i commmituje i pushuje
 gdzie? w Legionowie
-z kim?
+z kim? sam
 dlaczego?
 
 1
